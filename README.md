@@ -46,3 +46,8 @@ This checklist does not replace a professional security audit, legal review or d
 This resource is maintained by [esdecode](https://esdecode.com), a marketplace for scripts, plugins, applications, templates and other source-code products.
 
 You can also review product requirements, licensing information and seller details directly on [esdecode.com](https://esdecode.com).
+
+## License
+
+This checklist is licensed under the
+[Creative Commons Attribution 4.0 International License](LICENSE).
